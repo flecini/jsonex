@@ -1,15 +1,12 @@
-{
-  "data": {
-    "homeappliances": [
-      {
-        "name": "My Bosch Oven",
-        "brand": "BOSCH",
-        "vib": "HNG6764B6",
-        "connected": true,
-        "type": "Oven",
-        "enumber": "HNG6764B6/09",
-        "haId": "BOSCH-HNG6764B6-0000000011FF"
-      }
-    ]
-  }
+{"data":
+ 
+ {"name":"Oven Simulator",
+         "brand":"BOSCH",
+         "vib":"HCS01OVN1",
+         "connected":true,
+         "type":"Oven",
+         "enumber":"HCS01OVN1/03",
+         "haId":"BOSCH-HCS01OVN1-80E9253737B8"
+        }
+ 
 }
