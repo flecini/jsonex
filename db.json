@@ -1,1 +1,16 @@
-{"data":{"homeappliances":[{"name":"Washer Simulator","brand":"SIEMENS","connected":true,"haId":"SIEMENS-HCS03WCH1-7D66E5523AE5"},{"name":"FridgeFreezer Simulator","brand":"SIEMENS","connected":false,"haId":"SIEMENS-HCS05FRF1-7C6B723C393D"}]}}
+{
+  "homeappliances": [
+    {
+      "name": "Washer Simulator",
+      "brand": "SIEMENS",
+      "connected": true,
+      "haId": "SIEMENS-HCS03WCH1-7D66E5523AE5"
+    },
+    {
+      "name": "FridgeFreezer Simulator",
+      "brand": "SIEMENS",
+      "connected": false,
+      "haId": "SIEMENS-HCS05FRF1-7C6B723C393D"
+    }
+  ]
+}
