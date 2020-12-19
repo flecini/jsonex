@@ -1,5 +1,5 @@
 
-    "data": {
+
       "homeappliances": [
         {
           "name": "Washer Simulator",
@@ -56,4 +56,4 @@
           "haId": "SIEMENS-HCS02DWH1-E2CFA92FAB5F"
         }
       ]
-    }
+
