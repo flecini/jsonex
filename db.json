@@ -22,18 +22,6 @@
           "brand": "BOSCH",
           "vib": "HCS06COM1",
           "connected": true
-        },
-        {
-          "name": "Dryer Simulator",
-          "brand": "BOSCH",
-          "vib": "HCS04DYR1",
-          "connected": true
-        },
-        {
-          "name": "Dishwasher Simulator",
-          "brand": "SIEMENS",
-          "vib": "HCS02DWH1",
-          "connected": true
         }
       ]
 
